@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/python-trainer/__init__.py
+src/python-trainer/trainer.py
+src/python_trainer.egg-info/PKG-INFO
+src/python_trainer.egg-info/SOURCES.txt
+src/python_trainer.egg-info/dependency_links.txt
+src/python_trainer.egg-info/top_level.txt
+test/test_trainer.py
