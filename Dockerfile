@@ -10,4 +10,4 @@ COPY README.md /app/README.md
 
 RUN pip install tox
 
-CMD python -m tox /app
+CMD tox /app
